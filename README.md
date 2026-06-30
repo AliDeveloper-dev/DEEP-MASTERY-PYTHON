@@ -1,46 +1,61 @@
-# 🚀 3-Week Deep Mastery Plan: Logic Building, DSA, OOP & ML
+<div align="center">
 
-Welcome to my learning journey! This repository serves as a transparent, day-by-day log of my intensive 3-week coding sprint. It is designed to document my struggles, breakthroughs, and daily growth, making it a perfect blueprint and review resource for beginners.
+# Hi 👋, I'm Ali Husnain Nazar
+### 🚀 AI & Machine Learning Engineer | Python Developer | AI Content Creator
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects;Teaching+AI+in+Urdu+%26+Hinglish" />
+
+
+# 🚀 5-Week Deep Mastery Plan: Logic Building, DSA, OOP & ML
+
+Welcome to my learning journey! This repository documents my intensive 5-week sprint covering Python foundations, advanced DSA, and a complete Machine Learning track — from basics to a portfolio-ready capstone project.
 
 ---
 
 ## 👨‍💻 Prepared For
-**Ali Husnain**  
-*Commitment: 5 Hours Daily (4 Hours DSA + 1 Hour Machine Learning)*
+**Ali Husnain**
+*Commitment: 5 Hours Daily (4 Hours Core Focus + 1 Hour Practice/Hands-on)*
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-```🚀 Technologies & Tools Used
-🐍 Python      🟩 Data Structures  🟦 OOP Concepts
-🤖 ML Models   📊 Algorithms       📓 Jupyter Notebooks
-```
-
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="Scikit-Learn" />
-  <img src="https://shields.io" alt="Git" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ## 📅 Daily Routine & Time Allocation
 
-| Time (PKT) | Focus Area | Duration | Intensity |
-| :--- | :--- | :--- | :--- |
-| **10:00 AM - 01:30 PM** | 🧠 DSA + Logic Building (Core) | 3.5 Hours | 🔥 High |
-| **01:30 PM - 03:00 PM** | ☕ *Rest / Break / Recharge* | 1.5 Hours | 🛑 Off |
-| **03:00 PM - 04:00 PM** | 🤖 Machine Learning Foundations | 1.0 Hour | ⚡ Medium |
-| **04:00 PM - 05:00 PM** | 📝 DSA Practice & Consolidation | 1.0 Hour | 🔥 High |
+### Week 1 & Week 2 (Pure Python / DSA / Algorithms Mastery)
+
+| Time (PKT) | Focus Area | Duration |
+| :--- | :--- | :--- |
+| **10:00 AM - 01:30 PM** | 🧠 DSA + Logic Building (Core) | 3.5 Hours |
+| **01:30 PM - 03:00 PM** | ☕ Break | 1.5 Hours |
+| **03:00 PM - 04:00 PM** | 🧠 DSA / Algorithms (Continued Depth) | 1.0 Hour |
+| **04:00 PM - 05:00 PM** | 📝 DSA Practice & Consolidation | 1.0 Hour |
+
+### Week 3, 4 & 5 (Full Machine Learning Stack)
+
+| Time (PKT) | Focus Area | Duration |
+| :--- | :--- | :--- |
+| **10:00 AM - 01:30 PM** | 🤖 ML Core Theory + Math Intuition | 3.5 Hours |
+| **01:30 PM - 03:00 PM** | ☕ Break | 1.5 Hours |
+| **03:00 PM - 04:00 PM** | 🤖 ML Hands-on (Scikit-learn) | 1.0 Hour |
+| **04:00 PM - 05:00 PM** | 📝 ML Practice & Mini Exercises | 1.0 Hour |
 
 ---
 
-## 📈 Color-Graded Progress Tracker
+## 📈 Progress Tracker
 
-### 🗓️ Week 1: Foundation & Core Logic
+### 🗓️ Week 1: Foundation & Core Logic *(unchanged — foundation is solid)*
+
 - [ ] **Day 01** | Python Basics Refresh & Array Logic 🟢 *(Easy)*
 - [ ] **Day 02** | Time & Space Complexity (Big O) 🟢 *(Easy)*
 - [ ] **Day 03** | Two-Pointer & Sliding Window Techniques 🟡 *(Medium)*
@@ -49,38 +64,68 @@ Welcome to my learning journey! This repository serves as a transparent, day-by-
 - [ ] **Day 06** | OOP for DSA: Custom Linked List Implementation 🔴 *(Hard)*
 - [ ] **Day 07** | Weekly Review + Simple Linear Regression From Scratch 🔵 *(Milestone)*
 
-### 🗓️ Week 2: Advanced Data Structures & ML Introduction
+### 🗓️ Week 2: Pure DSA & Algorithms *(No ML — full focus on Python mastery)*
+
 - [ ] **Day 08** | Stacks and Queues (Theory & Implementation) 🟡
 - [ ] **Day 09** | Hashing & Dictionary Optimizations 🟡
-- [ ] **Day 10** | Binary Trees & Traversal Techniques 🔴
-- [ ] **Day 11** | Binary Search Trees (BST) Deep Dive 🔴
-- [ ] **Day 12** | Pandas Data Preprocessing for Machine Learning 🟢
-- [ ] **Day 13** | Logistic Regression & Classification Metrics 🟡
-- [ ] **Day 14** | Mid-Plan Consolidation & Edge Case Testing 🔵
+- [ ] **Day 10** | Sorting Algorithms — Merge Sort & Quick Sort 🔴
+- [ ] **Day 11** | Searching Algorithms — Binary Search Variations 🟡
+- [ ] **Day 12** | Graphs — Representation, BFS & DFS 🔴
+- [ ] **Day 13** | Greedy Algorithms & Logic Optimization 🔴
+- [ ] **Day 14** | Mid-Plan Consolidation + Edge Case Testing 🔵
 
-### 🗓️ Week 3: Algorithms & Machine Learning Application
-- [ ] **Day 15** | Sorting & Searching Algorithms (Merge/Quick Sort) 🟡
-- [ ] **Day 16** | Introduction to Graphs & BFS/DFS 🔴
-- [ ] **Day 17** | Greedy Algorithms & Logic Optimization 🔴
-- [ ] **Day 18** | Decision Trees & Random Forest Intuition 🟡
-- [ ] **Day 19** | Model Evaluation, Overfitting vs Underfitting 🟡
-- [ ] **Day 20** | Capstone Project: End-to-End ML Pipeline with Optimized DSA 🔴
-- [ ] **Day 21** | Final Review & Roadmap for the Future 🎉 🔵
+### 🗓️ Week 3: Machine Learning — Foundations
+
+- [ ] **Day 15** | Pandas Data Preprocessing — Deep Dive 🟢
+- [ ] **Day 16** | NumPy Revision for ML Context (vectorization, broadcasting) 🟢
+- [ ] **Day 17** | Exploratory Data Analysis (EDA) — Visualizing & Understanding Data 🟡
+- [ ] **Day 18** | Data Cleaning & Handling Missing Values 🟡
+- [ ] **Day 19** | Feature Scaling & Encoding (Normalization, Standardization, One-Hot) 🟡
+- [ ] **Day 20** | Train-Test Split & End-to-End ML Workflow Concept 🟢
+- [ ] **Day 21** | Weekly Review + Mini Data Preprocessing Exercise 🔵
+
+### 🗓️ Week 4: Machine Learning — Core Algorithms
+
+- [ ] **Day 22** | Linear Regression — Math Intuition From Scratch 🟡
+- [ ] **Day 23** | Linear Regression — Hands-on with Scikit-learn 🟢
+- [ ] **Day 24** | Logistic Regression — Math Intuition From Scratch 🟡
+- [ ] **Day 25** | Logistic Regression — Hands-on + Classification Metrics (Confusion Matrix, Precision/Recall/F1) 🟡
+- [ ] **Day 26** | Decision Trees — Theory & Implementation 🔴
+- [ ] **Day 27** | Random Forest Intuition 🔴
+- [ ] **Day 28** | K-Nearest Neighbors (KNN) + Weekly Review 🔵
+
+### 🗓️ Week 5: Machine Learning — Application & Capstone
+
+- [ ] **Day 29** | Model Evaluation Deep Dive — Overfitting vs Underfitting 🟡
+- [ ] **Day 30** | Cross-Validation & Hyperparameter Basics 🟡
+- [ ] **Day 31** | K-Means Clustering — Unsupervised Learning 🔴
+- [ ] **Day 32** | Capstone Project — Data Collection & Preprocessing 🔴
+- [ ] **Day 33** | Capstone Project — Model Building & Training 🔴
+- [ ] **Day 34** | Capstone Project — Evaluation, Tuning & Optimized DSA Integration 🔴
+- [ ] **Day 35** | Final Review + Roadmap for the Future 🎉 🔵
 
 ---
 
 ## 📝 Learning Log & Daily Struggles
+
 *This section is updated daily with raw notes, errors faced, and solutions discovered.*
 
 ### Week 1 Snippet
-* **Day 1 Struggle:** Kept getting `IndexError: list index out of range` on the two-pointer problem. 
-  * *What I learned:* Always check the loop boundary condition `while left < right` before accessing array elements!
+* **Day 1 Struggle:** Kept getting `IndexError: list index out of range` on the two-pointer problem.
+* *What I learned:* Always check the loop boundary condition `while left < right` before accessing array elements!
 * **Day 2 Struggle:** Understanding why recursion takes up stack space.
-  * *What I learned:* Visualized the call stack on paper; OOP structure makes organizing node pointers much cleaner.
+* *What I learned:* Visualized the call stack on paper; OOP structure makes organizing node pointers much cleaner.
+
+---
+
+## 🌟 Why This Split Works Best
+
+DSA gets 2 full weeks so Week 1's foundation properly develops into Week 2's advanced algorithms without rushing. ML gets 3 full weeks so Pandas/preprocessing gets the proper time it needs (most learners skip this and struggle later), regression and classification build on each other in the correct logical order, and the plan ends with a real capstone project that combines ML with optimized DSA logic — making it portfolio-worthy.
 
 ---
 
 ## 🌟 How Beginners Can Use This Repo
+
 1. **Follow the Schedule:** Clone this repository and adapt the schedule to your timeline.
 2. **Read the Logs:** Check the daily folders to see the exact code, common errors, and explanations.
 3. **Star the Repo:** If you find the logic-building patterns helpful, drop a ⭐ to track my updates!
