@@ -3,7 +3,7 @@
 # Hi 👋, I'm Ali Husnain Nazar
 ### 🚀 AI & Machine Learning Engineer | Python Developer | AI Content Creator
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects;Teaching+AI+in+Urdu+%26+Hinglish" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects" />
 
 
 # 🚀 5-Week Deep Mastery Plan: Logic Building, DSA, OOP & ML
@@ -106,17 +106,6 @@ Welcome to my learning journey! This repository documents my intensive 5-week sp
 
 ---
 
-## 📝 Learning Log & Daily Struggles
-
-*This section is updated daily with raw notes, errors faced, and solutions discovered.*
-
-### Week 1 Snippet
-* **Day 1 Struggle:** Kept getting `IndexError: list index out of range` on the two-pointer problem.
-* *What I learned:* Always check the loop boundary condition `while left < right` before accessing array elements!
-* **Day 2 Struggle:** Understanding why recursion takes up stack space.
-* *What I learned:* Visualized the call stack on paper; OOP structure makes organizing node pointers much cleaner.
-
----
 
 ## 🌟 Why This Split Works Best
 
@@ -127,5 +116,8 @@ DSA gets 2 full weeks so Week 1's foundation properly develops into Week 2's adv
 ## 🌟 How Beginners Can Use This Repo
 
 1. **Follow the Schedule:** Clone this repository and adapt the schedule to your timeline.
+```
+git clone https://github.com/AliDeveloper-dev/DEEP-MASTERY-PYTHON.git
+```
 2. **Read the Logs:** Check the daily folders to see the exact code, common errors, and explanations.
 3. **Star the Repo:** If you find the logic-building patterns helpful, drop a ⭐ to track my updates!
